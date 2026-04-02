@@ -14,6 +14,16 @@
     {{ with .Site.Params.amazon }}<a href="{{ . }}" title="Amazon"><i class="fab fa-amazon"></i></a>{{ end }}
     {{ with .Site.Params.tanichuGPT }}<a href="{{ . }}" title="tanichuGPT"><i class="fas fa-robot"></i></a>{{ end }}
   </div>
+  <div class="sidebar-books">
+    <p class="sidebar-books-title">Recent Books</p>
+    <div class="sidebar-books-grid">
+      <a href="https://www.amazon.co.jp/dp/4065423732?tag=tanichustudio-22" title="現代社会を生きるためのAI×哲学"><img src="https://m.media-amazon.com/images/P/4065423732.09._SX120_.jpg" alt="AI×哲学"></a>
+      <a href="https://www.amazon.co.jp/dp/4788518546?tag=tanichustudio-22" title="記号創発システム論"><img src="https://m.media-amazon.com/images/P/4788518546.09._SX120_.jpg" alt="記号創発システム論"></a>
+      <a href="https://www.amazon.co.jp/dp/4000297090?tag=tanichustudio-22" title="僕とアリスの夏物語"><img src="https://m.media-amazon.com/images/P/4000297090.09._SX120_.jpg" alt="僕とアリスの夏物語"></a>
+      <a href="https://www.amazon.co.jp/dp/4320094654?tag=tanichustudio-22" title="心を知るための人工知能"><img src="https://m.media-amazon.com/images/P/4320094654.09._SX120_.jpg" alt="心を知るための人工知能"></a>
+      <a href="https://www.amazon.co.jp/dp/4065218845?tag=tanichustudio-22" title="イラストで学ぶ 人工知能概論 改訂第2版"><img src="https://m.media-amazon.com/images/P/4065218845.09._SX120_.jpg" alt="イラストで学ぶ人工知能概論"></a>
+    </div>
+  </div>
   <div class="sidebar-bottom">
     <div class="lang-switch">
       {{ if .IsTranslated }}
