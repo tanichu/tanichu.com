@@ -1,0 +1,77 @@
+baseURL = 'https://www.tanichu.com/'
+title = 'Tadahiro Taniguchi - tanichu'
+theme = 'tanichu'
+defaultContentLanguage = 'en'
+
+[params]
+  description = "Personal website of Tadahiro Taniguchi (tanichu)"
+  author = "Tadahiro Taniguchi"
+  profileImage = "/images/face.jpg"
+  email = "taniguchi@i.kyoto-u.ac.jp"
+  googleScholar = "https://scholar.google.co.jp/citations?user=dPOCLQEAAAAJ"
+  twitter = "https://x.com/tanichu"
+  amazon = "https://www.amazon.co.jp/stores/%E8%B0%B7%E5%8F%A3-%E5%BF%A0%E5%A4%A7/author/B004LWAE2M"
+  facebook = "https://www.facebook.com/tadahiro.taniguchi.0624"
+  linkedin = "https://www.linkedin.com/in/tadahiro-taniguchi-1b680013/"
+
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'EN'
+    weight = 1
+    [languages.en.params]
+      profileName = "Tadahiro Taniguchi"
+      profileTitle = "Professor, Kyoto University"
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "CV"
+      url = "/cv/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Publications"
+      url = "/publications/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Activities"
+      url = "/activities/"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "Links"
+      url = "/links/"
+      weight = 5
+
+  [languages.ja]
+    languageCode = 'ja'
+    languageName = 'JP'
+    weight = 2
+    [languages.ja.params]
+      profileName = "谷口忠大"
+      profileTitle = "京都大学大学院情報学研究科 教授"
+    [[languages.ja.menu.main]]
+      name = "About"
+      url = "/ja/"
+      weight = 1
+    [[languages.ja.menu.main]]
+      name = "経歴"
+      url = "/ja/cv/"
+      weight = 2
+    [[languages.ja.menu.main]]
+      name = "著書"
+      url = "/ja/publications/"
+      weight = 3
+    [[languages.ja.menu.main]]
+      name = "活動"
+      url = "/ja/activities/"
+      weight = 4
+    [[languages.ja.menu.main]]
+      name = "リンク"
+      url = "/ja/links/"
+      weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
