@@ -33,7 +33,7 @@ a:hover { text-decoration: underline; }
 /* === Sidebar === */
 .sidebar {
   width: var(--sidebar-width);
-  min-height: 100vh;
+  height: 100vh;
   background: var(--sidebar-bg);
   border-right: 1px solid var(--border);
   padding: 24px 20px;
@@ -41,6 +41,8 @@ a:hover { text-decoration: underline; }
   top: 0;
   left: 0;
   overflow-y: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 .sidebar-title {
