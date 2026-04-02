@@ -81,6 +81,32 @@ a:hover { text-decoration: underline; }
   font-weight: 500;
 }
 
+.sidebar-social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 0 4px;
+}
+
+.sidebar-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  color: var(--text-light);
+  font-size: 16px;
+  transition: all 0.15s;
+}
+
+.sidebar-social a:hover {
+  color: var(--accent);
+  background: #eee;
+  text-decoration: none;
+}
+
 .sidebar-bottom {
   margin-top: 24px;
   padding-top: 16px;
