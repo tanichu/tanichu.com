@@ -60,10 +60,15 @@ a:hover { text-decoration: underline; }
   text-align: center;
 }
 
+.sidebar-avatar a {
+  display: inline-block;
+}
+
 .sidebar-avatar img {
-  width: 100px;
+  width: 60px;
   height: auto;
   border-radius: 4px;
+  display: block;
 }
 
 .sidebar-nav {
