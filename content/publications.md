@@ -2,6 +2,16 @@
 title: "Publications"
 ---
 
+For a full list of publications, please visit the lab website:
+
+<div style="margin: 20px 0;">
+<a href="https://www.emergent-symbol.systems/publications" style="display:inline-block; padding:8px 20px; background:#e53935; color:#fff; border-radius:4px; font-size:14px; text-decoration:none;">Publications (Emergent Symbol Systems Lab)</a>
+</div>
+
+Also available on [Google Scholar](https://scholar.google.co.jp/citations?user=dPOCLQEAAAAJ).
+
+---
+
 ## Books (Solo Author)
 
 | Year | Title | Publisher |
@@ -16,18 +26,11 @@ title: "Publications"
 | 2013 | Bibliobattle (ビブリオバトル) | Bunshun Shinsho |
 | 2010 | Can We Create Communicating Robots? (コミュニケーションするロボットは創れるか) | NHK Publishing |
 
-## Books (Co-author / Editor / Supervisor)
+## Edited Book (English)
 
 | Year | Title | Publisher |
 |:---|:---|:---|
-| 2024 | An Illustrated Introduction to Control Engineering [Supervisor] | Kodansha |
-| 2021 | Mechanism Design for Communication Fields [Co-editor] | - |
-| 2019 | Developmental Robotics Handbook [Co-translator/Supervisor] | Fukumura Shuppan |
-| 2017 | An Illustrated Introduction to Robotics [Supervisor] | Kodansha |
-
-## Selected Journal Papers
-
-For a complete list, please see [Google Scholar](https://scholar.google.co.jp/citations?user=dPOCLQEAAAAJ).
+| 2025 | [Symbol Emergence Systems: An Interdisciplinary Discussion About Cognition, Language and Society](https://www.amazon.co.jp/dp/981951326X?tag=tanichustudio-22) | Springer |
 
 ## Pen Names
 

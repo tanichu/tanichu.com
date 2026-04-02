@@ -2,6 +2,16 @@
 title: "著書"
 ---
 
+論文一覧は研究室ウェブサイトをご覧ください。
+
+<div style="margin: 20px 0;">
+<a href="https://www.emergent-symbol.systems/publications" style="display:inline-block; padding:8px 20px; background:#e53935; color:#fff; border-radius:4px; font-size:14px; text-decoration:none;">Publications（創発システム研究室）</a>
+</div>
+
+[Google Scholar](https://scholar.google.co.jp/citations?user=dPOCLQEAAAAJ) でもご覧いただけます。
+
+---
+
 ## 単著
 
 | 年 | 書名 | 出版社 |
@@ -16,6 +26,12 @@ title: "著書"
 | 2013 | ビブリオバトル 本を知り人を知る書評ゲーム | 文春新書 |
 | 2010 | コミュニケーションするロボットは創れるか | NHK出版 |
 
+## 英語書籍（編著）
+
+| 年 | 書名 | 出版社 |
+|:---|:---|:---|
+| 2025 | [Symbol Emergence Systems: An Interdisciplinary Discussion About Cognition, Language and Society](https://www.amazon.co.jp/dp/981951326X?tag=tanichustudio-22) | Springer |
+
 ## 監修・共著
 
 | 年 | 書名 | 出版社 |
@@ -24,13 +40,6 @@ title: "著書"
 | 2021 | コミュニケーション場のメカニズムデザイン【共編著】 | — |
 | 2019 | 発達ロボティクスハンドブック【監訳】 | 福村出版 |
 | 2017 | イラストで学ぶ ロボット工学【監修】 | 講談社 |
-| 2016 | やるぜ! ビブリオバトル【監修】 | 鈴木出版 |
-| 2016 | マンガでわかる ビブリオバトルに挑戦!【著・監修】 | さ・え・ら書房 |
-| 2014 | ビブリオバトルを楽しもう【監修】 | さ・え・ら書房 |
-
-## 論文
-
-論文一覧は [Google Scholar](https://scholar.google.co.jp/citations?user=dPOCLQEAAAAJ) をご覧ください。
 
 ## ペンネーム
 
