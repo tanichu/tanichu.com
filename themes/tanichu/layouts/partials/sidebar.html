@@ -14,7 +14,7 @@
       {{ else }}
         {{ range .Site.Languages }}
           {{ if ne .Lang $.Site.Language.Lang }}
-          <a href="{{ .Lang | printf "/%s/" }}" class="lang-btn">{{ .LanguageName }}</a>
+          <a href="{{ printf "/%s/" .Lang | relLangURL }}" class="lang-btn">{{ .LanguageName }}</a>
           {{ end }}
         {{ end }}
       {{ end }}
