@@ -55,6 +55,17 @@ a:hover { text-decoration: underline; }
 }
 .sidebar-title:hover { text-decoration: none; color: var(--accent); }
 
+.sidebar-avatar {
+  margin: 10px auto 14px;
+  text-align: center;
+}
+
+.sidebar-avatar img {
+  width: 100px;
+  height: auto;
+  border-radius: 4px;
+}
+
 .sidebar-nav {
   list-style: none;
 }

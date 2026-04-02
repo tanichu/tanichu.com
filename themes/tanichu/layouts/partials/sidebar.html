@@ -1,5 +1,8 @@
 <aside class="sidebar">
   <a class="sidebar-title" href="{{ .Site.Home.RelPermalink }}">Tadahiro Taniguchi (谷口忠大) / Tanichu (たにちゅー)</a>
+  <div class="sidebar-avatar">
+    <a href="{{ .Site.Home.RelPermalink }}"><img src="{{ "images/avatar.jpg" | relURL }}" alt="Tadahiro Taniguchi"></a>
+  </div>
   <ul class="sidebar-nav">
     {{ range .Site.Menus.main }}
     <li><a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a></li>
