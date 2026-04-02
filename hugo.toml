@@ -13,6 +13,7 @@ defaultContentLanguage = 'en'
   amazon = "https://www.amazon.co.jp/stores/%E8%B0%B7%E5%8F%A3-%E5%BF%A0%E5%A4%A7/author/B004LWAE2M"
   facebook = "https://www.facebook.com/tadahiro.taniguchi.0624"
   linkedin = "https://www.linkedin.com/in/tadahiro-taniguchi-1b680013/"
+  tanichuGPT = "https://chatgpt.com/g/g-67f0b8e95a608191a011532002809515-tanitiyugpt"
 
 [languages]
   [languages.en]
